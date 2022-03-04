@@ -1,0 +1,22 @@
+.odd,
+.odd2 {
+    background-color: rgba(250, 133, 215, 0.87);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+
+}
+
+.odd2 {
+    font-size: 24px;
+}
+
+#number2 {
+    font-size: 36px;
+    color:rgb(19, 19, 223)
+}
+
+#number4 {
+    font-size: 24px;
+    background-color: rgb(75, 206, 75);
+    font-weight: bold;
+}
+
